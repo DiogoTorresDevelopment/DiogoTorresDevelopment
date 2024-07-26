@@ -60,8 +60,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DiogoTorresDevelopment/DiogoTorresDevelopment/output/snake.svg" alt="Snake animation" />
-
+![GitHub Snake Light](https://raw.githubusercontent.com/DiogoTorresDevelopment/DiogoTorresDevelopment/output/github-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/DiogoTorresDevelopment/DiogoTorresDevelopment/output/github-snake-dark.svg)
+![GitHub Snake Ocean](https://raw.githubusercontent.com/DiogoTorresDevelopment/DiogoTorresDevelopment/output/ocean.gif)
 ###
 
 <div align="center">
