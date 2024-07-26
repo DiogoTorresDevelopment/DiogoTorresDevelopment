@@ -60,9 +60,8 @@
 
 <br clear="both">
 
-![GitHub Snake Light](https://raw.githubusercontent.com/DiogoTorresDevelopment/DiogoTorresDevelopment/output/github-snake.svg)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/DiogoTorresDevelopment/DiogoTorresDevelopment/output/github-snake-dark.svg)
-![GitHub Snake Ocean](https://raw.githubusercontent.com/DiogoTorresDevelopment/DiogoTorresDevelopment/output/ocean.gif)
+
 ###
 
 <div align="center">
