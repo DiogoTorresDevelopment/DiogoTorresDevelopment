@@ -15,6 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: debug github_user_name
+        run: echo "github_user_name=${{ github.repository_owner }}"
+
       - name: generate snake.svg
         uses: Platane/snk@v2
         with:
