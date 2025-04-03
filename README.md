@@ -47,7 +47,9 @@
 
 <br clear="both">
 
-<p align="left">Desde pequeno, sempre tive uma fascinação por computadores, mas foi durante meu primeiro emprego como menor aprendiz que meu interesse pela programação realmente floresceu. Trabalhando na EMID uma agência digital de minha cidade, onde tive a oportunidade de atuar como desenvolvedor, o que coincidiu com o início da minha graduação em Ciências da Computação na FAMPER - Faculdade de Ensino de Ampére.<br><br>Na EMID, desenvolvi habilidades em projetos e desenvolvimento de sites, utilizando principalmente Laravel, PHP e WordPress. Posteriormente, na CODE CENTAURI, expandi minhas competências trabalhando com stacks modernas como TypeScript, Electron, Angular, Java e Spring.<br><br>Minhas linguagens de programação favoritas atualmente são Spring Boot, Java e Angular, devido à sua agilidade, documentação abrangente e código de desenvolvimento linear. Além disso, tenho experiência com cPanel e hospedagens como Hostinger e Skymail, o que me proporcionou um entendimento sólido sobre infraestruturas de servidores e gestão de hospedagem.</p>
+<p align="left">Desenvolvedor Full Stack com experiência em Java, PHP, Laravel e Angular. Apaixonado por tecnologia e resolução de problemas, atuo no
+desenvolvimento de soluções eficientes e escaláveis. Experiência em boas práticas como SOLID, Clean Code e TDD. Atualmente cursando Ciência da
+Computação e buscando desafios inovadores para impulsionar minha carreira na área de tecnologia.</p>
 
 ###
 
